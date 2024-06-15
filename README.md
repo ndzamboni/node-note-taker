@@ -49,21 +49,21 @@ This will start the server at <http://localhost:3000/notes>.
 
 - Creating a Note:
 
-Navigate to <http://localhost:3000/notes>.
+   Navigate to <http://localhost:3000/notes>.
 
-Enter a title and content for the note.
+   Enter a title and content for the note.
 
-Click the "Save" button to save the note.
+   Click the "Save" button to save the note.
 
 - Viewing Notes:
 
-All saved notes will be displayed on the left panel.
+   All saved notes will be displayed on the left panel.
 
-Click on a note to view its details.
+   Click on a note to view its details.
 
-Deleting a Note:
+-Deleting a Note:
 
-Click the trash icon next to a note to delete it.
+   Click the trash icon next to a note to delete it.
 
 ## Endpoints
 
