@@ -1,5 +1,13 @@
 # Node.js Note Taker App
 
+## Deployed App In Render
+
+<https://node-note-taker.onrender.com>
+
+## GitHub Repo
+
+<https://github.com/ndzamboni/node-note-taker.git>
+
 <!-- insert screenshot -->
 ![Screenshot](/test.PNG)
 
