@@ -61,7 +61,7 @@ This will start the server at <http://localhost:3000/notes>.
 
    Click on a note to view its details.
 
--Deleting a Note:
+- Deleting a Note:
 
    Click the trash icon next to a note to delete it.
 
